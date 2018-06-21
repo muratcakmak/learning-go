@@ -15,6 +15,11 @@ My plan is to compile all the resources that I am gonna consume while I am learn
 [Go by example](https://gobyexample.com/)
 
 [Go Docs](https://golang.org/doc/#learning)
+
+### Community
+
+[Go subreddit](https://www.reddit.com/r/golang)
+
 ### Extra Readings
 #### Related
 
