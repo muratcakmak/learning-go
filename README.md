@@ -1,5 +1,6 @@
 # (Work in Progress) Learning Go
 
+My plan is to compile all the resources that I am gonna consume while I am learning `Go` the programming language. Any help or suggestion would be more than welcome. You can ping me on [twitter](https://twitter.com/omc345).
 ## Resources
 ### Video Resources
 
